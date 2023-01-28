@@ -1,4 +1,4 @@
-# 
+# This project implement validation, Modal, CRUD using LocalStorage.
 
 ## Project setup
 ```
